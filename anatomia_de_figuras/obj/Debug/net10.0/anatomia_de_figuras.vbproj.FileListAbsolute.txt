@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\bin\Debug\net10.0\anatomia_de_figuras.exe
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\bin\Debug\net10.0\anatomia_de_figuras.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\bin\Debug\net10.0\anatomia_de_figuras.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\bin\Debug\net10.0\anatomia_de_figuras.dll
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\bin\Debug\net10.0\anatomia_de_figuras.pdb
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.dll
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\refint\anatomia_de_figuras.dll
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.pdb
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\anatomia_de_figuras.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\anatomia_de_figuras\anatomia_de_figuras\obj\Debug\net10.0\ref\anatomia_de_figuras.dll
